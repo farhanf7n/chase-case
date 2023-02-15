@@ -535,9 +535,6 @@ Animation keyframes
 }
 
 .left_side h4 {
-  /* font-size: 6.25rem; */
-  /* letter-spacing: -0.05em; */
-  /* line-height: 6.5rem; */
   font-weight: 200;
   font-size: 70px;
   color: white;
@@ -876,6 +873,8 @@ footer {
 .footer-btm a,
 .footer-btm p {
   font-family: var(--ff-secondary);
+  font-size: 14px;
+  font-weight: 400;
 }
 
 a.e8-link {
