@@ -493,24 +493,26 @@ Animation keyframes
   justify-content: center;
   height: 100%;
   padding-left: 50px;
+  gap: 1rem;
 }
 
-.main-heading h1 {
+.main-heading h2 {
   font-weight: 700;
   font-size: 70px;
   letter-spacing: -0.05em;
-  line-height: 6.5rem;
   color: white;
   word-break: break-word;
   width: 55%;
 }
 
 .main-heading h3 {
-  line-height: 1.8rem;
-  font-size: 2.2rem;
+  font-size: 50px;
   font-weight: 500;
-  padding-bottom: 2rem;
   font-family: var(--ff-secondary);
+}
+
+.main-heading h4 {
+  font-size: 23px;
 }
 
 /* Section with background */
