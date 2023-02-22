@@ -726,6 +726,14 @@ Animation keyframes
   object-fit: cover;
 }
 
+.two-sec-anime .right_side {
+  padding-right: unset;
+}
+
+.two-sec-anime .left_side {
+  padding-left: unset;
+}
+
 .comp-info p {
   font-size: 2.2rem;
   font-weight: 400;
